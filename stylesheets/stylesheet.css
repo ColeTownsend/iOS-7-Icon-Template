@@ -283,7 +283,7 @@ Full-Width Styles
   font-weight: 700;
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
-  box-shadow: 0 3px 0 rgba(0,0,0,.3)
+  box-shadow: 0 3px 0 rgb(54, 43, 43);
 }
 
 #forkme_banner:active {
