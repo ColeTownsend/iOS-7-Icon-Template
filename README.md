@@ -1,4 +1,4 @@
-iOS-7-Icon-Template
+iOS7 Icon Template
 ===================
 ### Using the Magical Super Ellipse
 
