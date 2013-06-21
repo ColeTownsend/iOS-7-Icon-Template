@@ -281,9 +281,13 @@ Full-Width Styles
   color: #fff;
   background: url('../images/blacktocat.png') #4a4a4a no-repeat 95% 50%;
   font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
+  box-shadow: 0 3px 0 rgba(0,0,0,.3)
+}
+
+#forkme_banner:active {
+  box-shadow: none;
 }
 
 #header_wrap {
